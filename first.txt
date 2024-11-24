@@ -27,3 +27,10 @@ check again
 command to check changes in staged file
 git diff --staged first.txt
 
+to unstage file
+git reset first.txt
+
+git checkout first.txt
+git checkout.
+
+
