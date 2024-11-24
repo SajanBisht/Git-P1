@@ -1,6 +1,24 @@
 this is version 1 of my project
-i want this to go to commit 2
 changed by sajan
-git --version
-git status
-git init
+
+git --version(show version)
+
+git status(show status)
+
+git init(make a folder git reposetry)
+
+git add <file-name>      # Add a specific file
+git add .                # Add all changes in the current directory
+
+git add .(all file cimes in stage )
+
+git commit -m "message"(to commit)
+
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+git config user.name "Your Name"
+git config user.email "you@example.com"
+
+git log (To view the commit history)
+
