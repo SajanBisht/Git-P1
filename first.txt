@@ -24,3 +24,6 @@ git log (To view the commit history)
 hello world
 check again
 
+command to check changes in staged file
+git diff --staged first.txt
+
