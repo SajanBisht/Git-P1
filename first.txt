@@ -33,4 +33,9 @@ git reset first.txt
 git checkout first.txt
 git checkout.
 
+three type of staging
+git add -A
+git add .
+git add -u
+
 
